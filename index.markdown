@@ -5,6 +5,18 @@
 layout: default
 ---
 
+**UPDATE: July 31, 2024**: The Director of Project 2025, Paul Dans, stepped down and the Trump campaign released this in response:
+
+![trumpstatement](trump2025statement.jpg)
+
+The Harris campaign responded:
+
+![harrisresponse](harrisresponse.jpg)
+
+## Don't be fooled. Trump and his supporters fully intend to _implement_ Project 2025, if elected.
+
+Here's a link to the complete, original (so called) [Mandate For Leadership](2025_MandateForLeadership_FULL.pdf)
+
 **Trump** recently claimed that he had no idea about what Project 2025 was and that he
 had no relation to it.
 
